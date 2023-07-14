@@ -1,3 +1,4 @@
+[![Build status](https://dev.azure.com/josecitogrillo/dockercito/_apis/build/status/MHCDocker.build)](https://dev.azure.com/josecitogrillo/dockercito/_build/latest?definitionId=21)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
